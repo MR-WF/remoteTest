@@ -3,4 +3,8 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+<<<<<<< HEAD
 master分支修改文件
+=======
+分支feature1修改了README文件
+>>>>>>> feature1
