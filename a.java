@@ -4,4 +4,8 @@ public class Aaa{
    public static void main(String []args){
    	System.out.println(1+2);
    }
+
+   public void add(){
+   //远程修改啦啦啦啦
+  }
 }
